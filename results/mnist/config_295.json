@@ -1,0 +1,1 @@
+{"validation_accuracy": 0.328, "runtime": 17696.341704130173, "train_accuracy": 0.8248030181623932, "configs": {"vertical_flip": false, "rotation_range": 21, "pad": 8, "horizontal_flip": false, "rescale": 0}, "compile_time": 0.029799222946166992, "config_id": 295}
