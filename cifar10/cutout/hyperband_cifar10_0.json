@@ -1,0 +1,1 @@
+{"best_config_id": [2, 0, 0], "best_config_trajectory": {"budgets": [2.0, 2.0, 2.0], "losses": [0.3337, 0.31089999999999995, 0.2933], "times_finished": [205.49743461608887, 398.73163771629333, 590.738687992096], "config_ids": [[0, 0, 0], [1, 0, 0], [2, 0, 0]]}, "best_run_info": {"epoch": 1, "test_error": 0.2933, "train_error": 0.30808}}
