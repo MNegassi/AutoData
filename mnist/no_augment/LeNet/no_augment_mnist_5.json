@@ -1,0 +1,1 @@
+{"benchmark": "LeNet", "test_loss": 0.08496200840043891, "configs": {}, "test_error": 0.008099999999999996, "epochs": 200, "used_budget": 1873.5632772445679}

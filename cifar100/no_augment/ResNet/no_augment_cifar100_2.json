@@ -1,0 +1,1 @@
+{"benchmark": "ResNet", "test_loss": 4.952378586578369, "test_error": 0.5925, "epochs": 169, "configs": {}, "used_budget": 7171.795875549316}
