@@ -1,0 +1,1 @@
+{"benchmark": "AlexNet", "epochs": 200, "used_budget": 5648.6637597084045, "test_loss": 1.8685652867794036, "configs": {}, "test_error": 0.21899999999999997}
